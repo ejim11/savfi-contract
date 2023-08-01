@@ -1,0 +1,1 @@
+SavFi is a smart contract that enables saving and staking of stable tokens to earn incentive SAVFI tokens and yields.
